@@ -1,0 +1,3 @@
+Point 2 :: Connection => 3 : 5	
+Point 3 :: Connection => UNCONNECTED
+Point 4 :: Connection => UNCONNECTED

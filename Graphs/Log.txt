@@ -1,0 +1,296 @@
+
+
+1598676651:	Message Graph:  Creation random graph began
+ q_points = 6 min_weight = 0 max_weight = 10
+
+1598676651:	Message Point 0: connection id = 3 was added successfully
+
+1598676651:	Message Point 0: connection id = 4 was added successfully
+
+1598676651:	Message Point 0: connection id = 5 was added successfully
+
+1598676651:	Message Graph: Point id = 0 was added
+
+1598676651:	Message Point 1: connection id = 0 was added successfully
+
+1598676651:	Message Point 1: connection id = 3 was added successfully
+
+1598676651:	Message Point 1: connection id = 5 was added successfully
+
+1598676651:	Message Graph: Point id = 1 was added
+
+1598676651:	Message Point 2: connection id = 0 was added successfully
+
+1598676651:	Message Point 2: connection id = 1 was added successfully
+
+1598676651:	Message Point 2: connection id = 3 was added successfully
+
+1598676651:	Message Point 2: connection id = 4 was added successfully
+
+1598676651:	Message Point 2: connection id = 5 was added successfully
+
+1598676651:	Message Graph: Point id = 2 was added
+
+1598676651:	Message Point 3: connection id = 0 was added successfully
+
+1598676651:	Message Point 3: connection id = 2 was added successfully
+
+1598676651:	Message Point 3: connection id = 4 was added successfully
+
+1598676651:	Message Point 3: connection id = 5 was added successfully
+
+1598676651:	Message Graph: Point id = 3 was added
+
+1598676651:	Message Point 4: connection id = 0 was added successfully
+
+1598676651:	Message Point 4: connection id = 1 was added successfully
+
+1598676651:	Message Point 4: connection id = 2 was added successfully
+
+1598676651:	Message Point 4: connection id = 3 was added successfully
+
+1598676651:	Message Point 4: connection id = 5 was added successfully
+
+1598676651:	Message Graph: Point id = 4 was added
+
+1598676651:	Message Point 5: connection id = 0 was added successfully
+
+1598676651:	Message Point 5: connection id = 1 was added successfully
+
+1598676651:	Message Point 5: connection id = 2 was added successfully
+
+1598676651:	Message Point 5: connection id = 3 was added successfully
+
+1598676651:	Message Point 5: connection id = 4 was added successfully
+
+1598676651:	Message Graph: Point id = 5 was added
+
+1598676651:	Message Graph: Creation random graph ended
+
+1598676651:	Message Graph: Graph was printed in file: test_rand.txt
+
+1598676673:	Message Graph:  Creation random graph began
+ q_points = 6 min_weight = 0 max_weight = 10
+
+1598676673:	Message Point 0: connection id = 1 was added successfully
+
+1598676673:	Message Point 0: connection id = 2 was added successfully
+
+1598676673:	Message Point 0: connection id = 3 was added successfully
+
+1598676673:	Message Point 0: connection id = 4 was added successfully
+
+1598676673:	Message Point 0: connection id = 5 was added successfully
+
+1598676673:	Message Graph: Point id = 0 was added
+
+1598676673:	Message Point 1: connection id = 0 was added successfully
+
+1598676673:	Message Point 1: connection id = 2 was added successfully
+
+1598676673:	Message Point 1: connection id = 3 was added successfully
+
+1598676673:	Message Point 1: connection id = 4 was added successfully
+
+1598676673:	Message Point 1: connection id = 5 was added successfully
+
+1598676673:	Message Graph: Point id = 1 was added
+
+1598676673:	Message Point 2: connection id = 0 was added successfully
+
+1598676673:	Message Point 2: connection id = 1 was added successfully
+
+1598676673:	Message Point 2: connection id = 3 was added successfully
+
+1598676673:	Message Point 2: connection id = 4 was added successfully
+
+1598676673:	Message Point 2: connection id = 5 was added successfully
+
+1598676673:	Message Graph: Point id = 2 was added
+
+1598676673:	Message Point 3: connection id = 0 was added successfully
+
+1598676673:	Message Point 3: connection id = 1 was added successfully
+
+1598676673:	Message Point 3: connection id = 2 was added successfully
+
+1598676673:	Message Point 3: connection id = 4 was added successfully
+
+1598676673:	Message Point 3: connection id = 5 was added successfully
+
+1598676673:	Message Graph: Point id = 3 was added
+
+1598676673:	Message Point 4: connection id = 0 was added successfully
+
+1598676673:	Message Point 4: connection id = 1 was added successfully
+
+1598676673:	Message Point 4: connection id = 2 was added successfully
+
+1598676673:	Message Point 4: connection id = 3 was added successfully
+
+1598676673:	Message Point 4: connection id = 5 was added successfully
+
+1598676673:	Message Graph: Point id = 4 was added
+
+1598676673:	Message Point 5: connection id = 0 was added successfully
+
+1598676673:	Message Point 5: connection id = 1 was added successfully
+
+1598676673:	Message Point 5: connection id = 2 was added successfully
+
+1598676673:	Message Point 5: connection id = 3 was added successfully
+
+1598676673:	Message Point 5: connection id = 4 was added successfully
+
+1598676673:	Message Graph: Point id = 5 was added
+
+1598676673:	Message Graph: Creation random graph ended
+
+1598676673:	Message Graph: Graph was printed in file: test_rand.txt
+
+1600172756:	Message Graph:  Creation random graph began
+ q_points = 6 min_weight = 0 max_weight = 10
+
+1600172756:	Message Point 0: connection id = 1 was added successfully
+
+1600172756:	Message Point 0: connection id = 2 was added successfully
+
+1600172756:	Message Point 0: connection id = 3 was added successfully
+
+1600172756:	Message Point 0: connection id = 4 was added successfully
+
+1600172756:	Message Point 0: connection id = 5 was added successfully
+
+1600172756:	Message Graph: Point id = 0 was added
+
+1600172756:	Message Point 1: connection id = 0 was added successfully
+
+1600172756:	Message Point 1: connection id = 2 was added successfully
+
+1600172756:	Message Point 1: connection id = 3 was added successfully
+
+1600172756:	Message Point 1: connection id = 4 was added successfully
+
+1600172756:	Message Point 1: connection id = 5 was added successfully
+
+1600172756:	Message Graph: Point id = 1 was added
+
+1600172756:	Message Point 2: connection id = 0 was added successfully
+
+1600172756:	Message Point 2: connection id = 1 was added successfully
+
+1600172756:	Message Point 2: connection id = 3 was added successfully
+
+1600172756:	Message Point 2: connection id = 4 was added successfully
+
+1600172756:	Message Point 2: connection id = 5 was added successfully
+
+1600172756:	Message Graph: Point id = 2 was added
+
+1600172756:	Message Point 3: connection id = 0 was added successfully
+
+1600172756:	Message Point 3: connection id = 1 was added successfully
+
+1600172756:	Message Point 3: connection id = 2 was added successfully
+
+1600172756:	Message Point 3: connection id = 4 was added successfully
+
+1600172756:	Message Point 3: connection id = 5 was added successfully
+
+1600172756:	Message Graph: Point id = 3 was added
+
+1600172756:	Message Point 4: connection id = 0 was added successfully
+
+1600172756:	Message Point 4: connection id = 1 was added successfully
+
+1600172756:	Message Point 4: connection id = 2 was added successfully
+
+1600172756:	Message Point 4: connection id = 3 was added successfully
+
+1600172756:	Message Point 4: connection id = 5 was added successfully
+
+1600172756:	Message Graph: Point id = 4 was added
+
+1600172756:	Message Point 5: connection id = 1 was added successfully
+
+1600172756:	Message Point 5: connection id = 4 was added successfully
+
+1600172756:	Message Graph: Point id = 5 was added
+
+1600172756:	Message Graph: Creation random graph ended
+
+1600172756:	Message Graph: Graph was printed in file: test_rand.txt
+
+1620993221:	Message Graph:  Creation random graph began
+ q_points = 6 min_weight = 0 max_weight = 10
+
+1620993221:	Message Point 0: connection id = 2 was added successfully
+
+1620993221:	Message Point 0: connection id = 3 was added successfully
+
+1620993221:	Message Point 0: connection id = 4 was added successfully
+
+1620993221:	Message Point 0: connection id = 5 was added successfully
+
+1620993221:	Message Graph: Point id = 0 was added
+
+1620993221:	Message Point 1: connection id = 2 was added successfully
+
+1620993221:	Message Point 1: connection id = 3 was added successfully
+
+1620993221:	Message Point 1: connection id = 4 was added successfully
+
+1620993221:	Message Point 1: connection id = 5 was added successfully
+
+1620993221:	Message Graph: Point id = 1 was added
+
+1620993221:	Message Point 2: connection id = 0 was added successfully
+
+1620993221:	Message Point 2: connection id = 1 was added successfully
+
+1620993221:	Message Point 2: connection id = 3 was added successfully
+
+1620993221:	Message Point 2: connection id = 4 was added successfully
+
+1620993221:	Message Point 2: connection id = 5 was added successfully
+
+1620993221:	Message Graph: Point id = 2 was added
+
+1620993221:	Message Point 3: connection id = 0 was added successfully
+
+1620993221:	Message Point 3: connection id = 1 was added successfully
+
+1620993221:	Message Point 3: connection id = 2 was added successfully
+
+1620993221:	Message Point 3: connection id = 4 was added successfully
+
+1620993221:	Message Point 3: connection id = 5 was added successfully
+
+1620993221:	Message Graph: Point id = 3 was added
+
+1620993221:	Message Point 4: connection id = 0 was added successfully
+
+1620993221:	Message Point 4: connection id = 1 was added successfully
+
+1620993221:	Message Point 4: connection id = 2 was added successfully
+
+1620993221:	Message Point 4: connection id = 5 was added successfully
+
+1620993221:	Message Graph: Point id = 4 was added
+
+1620993221:	Message Point 5: connection id = 0 was added successfully
+
+1620993221:	Message Point 5: connection id = 1 was added successfully
+
+1620993221:	Message Point 5: connection id = 2 was added successfully
+
+1620993221:	Message Point 5: connection id = 3 was added successfully
+
+1620993221:	Message Point 5: connection id = 4 was added successfully
+
+1620993221:	Message Graph: Point id = 5 was added
+
+1620993221:	Message Graph: Creation random graph ended
+
+1620993221:	Message Graph: Graph was printed in file: test_rand.txt
+
