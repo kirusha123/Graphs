@@ -1,0 +1,396 @@
+1622117884:	Message Point 0: connection id = 0 was added successfully
+
+1622117884:	Message Point 0: connection id = 1 was added successfully
+
+1622117884:	Message Point 0: connection id = 2 was added successfully
+
+1622117884:	Message Point 0: connection id = 3 was added successfully
+
+1622117884:	Message Point 0: connection id = 4 was added successfully
+
+1622117884:	Message Point 0: connection id = 5 was added successfully
+
+1622117884:	Message Point 1: connection id = 0 was added successfully
+
+1622117884:	Message Point 1: connection id = 1 was added successfully
+
+1622117884:	Message Point 1: connection id = 2 was added successfully
+
+1622117884:	Message Point 1: connection id = 3 was added successfully
+
+1622117884:	Message Point 1: connection id = 4 was added successfully
+
+1622117884:	Message Point 1: connection id = 5 was added successfully
+
+1622117884:	Message Point 2: connection id = 0 was added successfully
+
+1622117884:	Message Point 2: connection id = 1 was added successfully
+
+1622117884:	Message Point 2: connection id = 2 was added successfully
+
+1622117884:	Message Point 2: connection id = 3 was added successfully
+
+1622117884:	Message Point 2: connection id = 4 was added successfully
+
+1622117884:	Message Point 2: connection id = 5 was added successfully
+
+1622117884:	Message Point 3: connection id = 0 was added successfully
+
+1622117884:	Message Point 3: connection id = 1 was added successfully
+
+1622117884:	Message Point 3: connection id = 2 was added successfully
+
+1622117884:	Message Point 3: connection id = 3 was added successfully
+
+1622117884:	Message Point 3: connection id = 4 was added successfully
+
+1622117884:	Message Point 3: connection id = 5 was added successfully
+
+1622117884:	Message Point 4: connection id = 0 was added successfully
+
+1622117884:	Message Point 4: connection id = 1 was added successfully
+
+1622117884:	Message Point 4: connection id = 2 was added successfully
+
+1622117884:	Message Point 4: connection id = 3 was added successfully
+
+1622117884:	Message Point 4: connection id = 4 was added successfully
+
+1622117884:	Message Point 4: connection id = 5 was added successfully
+
+1622117884:	Message Point 5: connection id = 0 was added successfully
+
+1622117884:	Message Point 5: connection id = 1 was added successfully
+
+1622117884:	Message Point 5: connection id = 2 was added successfully
+
+1622117884:	Message Point 5: connection id = 3 was added successfully
+
+1622117884:	Message Point 5: connection id = 4 was added successfully
+
+1622117884:	Message Point 5: connection id = 5 was added successfully
+
+1622117884:	Message Graph: STARTING CREATING WEIGHT MATRIX
+
+1622117912:	Message Point 0: connection id = 0 was added successfully
+
+1622117912:	Message Point 0: connection id = 1 was added successfully
+
+1622117912:	Message Point 0: connection id = 2 was added successfully
+
+1622117912:	Message Point 0: connection id = 3 was added successfully
+
+1622117912:	Message Point 0: connection id = 4 was added successfully
+
+1622117912:	Message Point 0: connection id = 5 was added successfully
+
+1622117912:	Message Point 1: connection id = 0 was added successfully
+
+1622117912:	Message Point 1: connection id = 1 was added successfully
+
+1622117912:	Message Point 1: connection id = 2 was added successfully
+
+1622117912:	Message Point 1: connection id = 3 was added successfully
+
+1622117912:	Message Point 1: connection id = 4 was added successfully
+
+1622117912:	Message Point 1: connection id = 5 was added successfully
+
+1622117912:	Message Point 2: connection id = 0 was added successfully
+
+1622117912:	Message Point 2: connection id = 1 was added successfully
+
+1622117912:	Message Point 2: connection id = 2 was added successfully
+
+1622117912:	Message Point 2: connection id = 3 was added successfully
+
+1622117912:	Message Point 2: connection id = 4 was added successfully
+
+1622117912:	Message Point 2: connection id = 5 was added successfully
+
+1622117912:	Message Point 3: connection id = 0 was added successfully
+
+1622117912:	Message Point 3: connection id = 1 was added successfully
+
+1622117912:	Message Point 3: connection id = 2 was added successfully
+
+1622117912:	Message Point 3: connection id = 3 was added successfully
+
+1622117912:	Message Point 3: connection id = 4 was added successfully
+
+1622117912:	Message Point 3: connection id = 5 was added successfully
+
+1622117912:	Message Point 4: connection id = 0 was added successfully
+
+1622117912:	Message Point 4: connection id = 1 was added successfully
+
+1622117912:	Message Point 4: connection id = 2 was added successfully
+
+1622117912:	Message Point 4: connection id = 3 was added successfully
+
+1622117912:	Message Point 4: connection id = 4 was added successfully
+
+1622117912:	Message Point 4: connection id = 5 was added successfully
+
+1622117912:	Message Point 5: connection id = 0 was added successfully
+
+1622117912:	Message Point 5: connection id = 1 was added successfully
+
+1622117912:	Message Point 5: connection id = 2 was added successfully
+
+1622117912:	Message Point 5: connection id = 3 was added successfully
+
+1622117912:	Message Point 5: connection id = 4 was added successfully
+
+1622117912:	Message Point 5: connection id = 5 was added successfully
+
+1622117912:	Message Graph: STARTING CREATING WEIGHT MATRIX
+
+1622118352:	Message Point 0: connection id = 0 was added successfully
+
+1622118352:	Message Point 0: connection id = 1 was added successfully
+
+1622118352:	Message Point 0: connection id = 2 was added successfully
+
+1622118352:	Message Point 0: connection id = 3 was added successfully
+
+1622118352:	Message Point 0: connection id = 4 was added successfully
+
+1622118352:	Message Point 0: connection id = 5 was added successfully
+
+1622118352:	Message Point 1: connection id = 0 was added successfully
+
+1622118352:	Message Point 1: connection id = 1 was added successfully
+
+1622118352:	Message Point 1: connection id = 2 was added successfully
+
+1622118352:	Message Point 1: connection id = 3 was added successfully
+
+1622118352:	Message Point 1: connection id = 4 was added successfully
+
+1622118352:	Message Point 1: connection id = 5 was added successfully
+
+1622118352:	Message Point 2: connection id = 0 was added successfully
+
+1622118352:	Message Point 2: connection id = 1 was added successfully
+
+1622118352:	Message Point 2: connection id = 2 was added successfully
+
+1622118352:	Message Point 2: connection id = 3 was added successfully
+
+1622118352:	Message Point 2: connection id = 4 was added successfully
+
+1622118352:	Message Point 2: connection id = 5 was added successfully
+
+1622118352:	Message Point 3: connection id = 0 was added successfully
+
+1622118352:	Message Point 3: connection id = 1 was added successfully
+
+1622118352:	Message Point 3: connection id = 2 was added successfully
+
+1622118352:	Message Point 3: connection id = 3 was added successfully
+
+1622118352:	Message Point 3: connection id = 4 was added successfully
+
+1622118352:	Message Point 3: connection id = 5 was added successfully
+
+1622118352:	Message Point 4: connection id = 0 was added successfully
+
+1622118352:	Message Point 4: connection id = 1 was added successfully
+
+1622118352:	Message Point 4: connection id = 2 was added successfully
+
+1622118352:	Message Point 4: connection id = 3 was added successfully
+
+1622118352:	Message Point 4: connection id = 4 was added successfully
+
+1622118352:	Message Point 4: connection id = 5 was added successfully
+
+1622118352:	Message Point 5: connection id = 0 was added successfully
+
+1622118352:	Message Point 5: connection id = 1 was added successfully
+
+1622118352:	Message Point 5: connection id = 2 was added successfully
+
+1622118352:	Message Point 5: connection id = 3 was added successfully
+
+1622118352:	Message Point 5: connection id = 4 was added successfully
+
+1622118352:	Message Point 5: connection id = 5 was added successfully
+
+1622118352:	Message Graph: STARTING CREATING WEIGHT MATRIX
+
+1622118352:	Message Graph: Point id = 1 was added
+
+1622118352:	Message Graph: Cannot add point id = 1
+Reason: point already exists
+
+1622118554:	Message Point 0: connection id = 0 was added successfully
+
+1622118554:	Message Point 0: connection id = 1 was added successfully
+
+1622118554:	Message Point 0: connection id = 2 was added successfully
+
+1622118554:	Message Point 0: connection id = 3 was added successfully
+
+1622118554:	Message Point 0: connection id = 4 was added successfully
+
+1622118554:	Message Point 0: connection id = 5 was added successfully
+
+1622118554:	Message Point 1: connection id = 0 was added successfully
+
+1622118554:	Message Point 1: connection id = 1 was added successfully
+
+1622118554:	Message Point 1: connection id = 2 was added successfully
+
+1622118554:	Message Point 1: connection id = 3 was added successfully
+
+1622118554:	Message Point 1: connection id = 4 was added successfully
+
+1622118554:	Message Point 1: connection id = 5 was added successfully
+
+1622118554:	Message Point 2: connection id = 0 was added successfully
+
+1622118554:	Message Point 2: connection id = 1 was added successfully
+
+1622118554:	Message Point 2: connection id = 2 was added successfully
+
+1622118554:	Message Point 2: connection id = 3 was added successfully
+
+1622118554:	Message Point 2: connection id = 4 was added successfully
+
+1622118554:	Message Point 2: connection id = 5 was added successfully
+
+1622118554:	Message Point 3: connection id = 0 was added successfully
+
+1622118554:	Message Point 3: connection id = 1 was added successfully
+
+1622118554:	Message Point 3: connection id = 2 was added successfully
+
+1622118554:	Message Point 3: connection id = 3 was added successfully
+
+1622118554:	Message Point 3: connection id = 4 was added successfully
+
+1622118554:	Message Point 3: connection id = 5 was added successfully
+
+1622118554:	Message Point 4: connection id = 0 was added successfully
+
+1622118554:	Message Point 4: connection id = 1 was added successfully
+
+1622118554:	Message Point 4: connection id = 2 was added successfully
+
+1622118554:	Message Point 4: connection id = 3 was added successfully
+
+1622118554:	Message Point 4: connection id = 4 was added successfully
+
+1622118554:	Message Point 4: connection id = 5 was added successfully
+
+1622118554:	Message Point 5: connection id = 0 was added successfully
+
+1622118554:	Message Point 5: connection id = 1 was added successfully
+
+1622118554:	Message Point 5: connection id = 2 was added successfully
+
+1622118554:	Message Point 5: connection id = 3 was added successfully
+
+1622118554:	Message Point 5: connection id = 4 was added successfully
+
+1622118554:	Message Point 5: connection id = 5 was added successfully
+
+1622118554:	Message Graph: STARTING CREATING WEIGHT MATRIX
+
+1622118554:	Message Graph: Point id = 1 was added
+
+1622118554:	Message Graph: Cannot add point id = 1
+Reason: point already exists
+
+1622118554:	Message Graph: Point id = 1 was added
+
+1622118554:	Message Graph: Point id = 1 was deleted
+
+1622118587:	Message Point 0: connection id = 0 was added successfully
+
+1622118587:	Message Point 0: connection id = 1 was added successfully
+
+1622118587:	Message Point 0: connection id = 2 was added successfully
+
+1622118587:	Message Point 0: connection id = 3 was added successfully
+
+1622118587:	Message Point 0: connection id = 4 was added successfully
+
+1622118587:	Message Point 0: connection id = 5 was added successfully
+
+1622118587:	Message Point 1: connection id = 0 was added successfully
+
+1622118587:	Message Point 1: connection id = 1 was added successfully
+
+1622118587:	Message Point 1: connection id = 2 was added successfully
+
+1622118587:	Message Point 1: connection id = 3 was added successfully
+
+1622118587:	Message Point 1: connection id = 4 was added successfully
+
+1622118587:	Message Point 1: connection id = 5 was added successfully
+
+1622118587:	Message Point 2: connection id = 0 was added successfully
+
+1622118587:	Message Point 2: connection id = 1 was added successfully
+
+1622118587:	Message Point 2: connection id = 2 was added successfully
+
+1622118587:	Message Point 2: connection id = 3 was added successfully
+
+1622118587:	Message Point 2: connection id = 4 was added successfully
+
+1622118587:	Message Point 2: connection id = 5 was added successfully
+
+1622118587:	Message Point 3: connection id = 0 was added successfully
+
+1622118587:	Message Point 3: connection id = 1 was added successfully
+
+1622118587:	Message Point 3: connection id = 2 was added successfully
+
+1622118587:	Message Point 3: connection id = 3 was added successfully
+
+1622118587:	Message Point 3: connection id = 4 was added successfully
+
+1622118587:	Message Point 3: connection id = 5 was added successfully
+
+1622118587:	Message Point 4: connection id = 0 was added successfully
+
+1622118587:	Message Point 4: connection id = 1 was added successfully
+
+1622118587:	Message Point 4: connection id = 2 was added successfully
+
+1622118587:	Message Point 4: connection id = 3 was added successfully
+
+1622118587:	Message Point 4: connection id = 4 was added successfully
+
+1622118587:	Message Point 4: connection id = 5 was added successfully
+
+1622118587:	Message Point 5: connection id = 0 was added successfully
+
+1622118587:	Message Point 5: connection id = 1 was added successfully
+
+1622118587:	Message Point 5: connection id = 2 was added successfully
+
+1622118587:	Message Point 5: connection id = 3 was added successfully
+
+1622118587:	Message Point 5: connection id = 4 was added successfully
+
+1622118587:	Message Point 5: connection id = 5 was added successfully
+
+1622118587:	Message Graph: STARTING CREATING WEIGHT MATRIX
+
+1622118587:	Message Graph: Point id = 1 was added
+
+1622118587:	Message Graph: Cannot add point id = 1
+Reason: point already exists
+
+1622118587:	Message Graph: Point id = 1 was added
+
+1622118587:	Message Graph: Point id = 1 was deleted
+
+1622118587:	Message Graph: It is not possible to delete a point with id = -1
+Reason: this point is missing or has been deleted earlier.
+

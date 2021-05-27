@@ -3,6 +3,7 @@
 #include<string>
 #include<fstream>
 #include<ctime>
+#include<thread> 
 
 using namespace std;
 
@@ -60,7 +61,8 @@ public:
 		default:
 			return;
 		}
-		add_message(mes);
+		thread t = thread(add_message, mes);
+		t.join();
 	}
 
 private :

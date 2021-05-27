@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30330.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Graphs", "Graphs\Graphs.vcxproj", "{C3EDC504-D189-42B8-8D31-4C0266670937}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gtest", "Gtest\Gtest.vcxproj", "{4F30149B-3FCF-462B-964F-2531E9A0F28E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{C3EDC504-D189-42B8-8D31-4C0266670937}.Release|x64.Build.0 = Release|x64
 		{C3EDC504-D189-42B8-8D31-4C0266670937}.Release|x86.ActiveCfg = Release|Win32
 		{C3EDC504-D189-42B8-8D31-4C0266670937}.Release|x86.Build.0 = Release|Win32
+		{4F30149B-3FCF-462B-964F-2531E9A0F28E}.Debug|x64.ActiveCfg = Debug|x64
+		{4F30149B-3FCF-462B-964F-2531E9A0F28E}.Debug|x64.Build.0 = Debug|x64
+		{4F30149B-3FCF-462B-964F-2531E9A0F28E}.Debug|x86.ActiveCfg = Debug|Win32
+		{4F30149B-3FCF-462B-964F-2531E9A0F28E}.Debug|x86.Build.0 = Debug|Win32
+		{4F30149B-3FCF-462B-964F-2531E9A0F28E}.Release|x64.ActiveCfg = Release|x64
+		{4F30149B-3FCF-462B-964F-2531E9A0F28E}.Release|x64.Build.0 = Release|x64
+		{4F30149B-3FCF-462B-964F-2531E9A0F28E}.Release|x86.ActiveCfg = Release|Win32
+		{4F30149B-3FCF-462B-964F-2531E9A0F28E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

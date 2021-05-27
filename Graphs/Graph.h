@@ -5,16 +5,77 @@
 #include <fstream>
 #include <string>
 
+#include <limits.h>
+#include <stdio.h>
+
+
 using namespace std;
+
+
+
+
+
+int len = 0;
+
+int minDistance(int* dist, bool* sptSet)
+{
+	int min = INT_MAX, min_index;
+
+	for (int v = 0; v < len; v++)
+		if (sptSet[v] == false && dist[v] <= min)
+			min = dist[v], min_index = v;
+
+	return min_index;
+}
+
+void printSolution(int* dist)
+{
+	printf("Vertex \t\t Distance from Source\n");
+	for (int i = 0; i < len; i++)
+		printf("%d \t\t %d\n", i, dist[i]);
+}
+
+
+int* dijkstra(int** graph, int src, int glen)
+{
+	len = glen;
+	
+
+	int* dist = new int[len];
+
+	bool* sptSet = new bool[len];
+
+	for (int i = 0; i < len; i++)
+		dist[i] = INT_MAX, sptSet[i] = false;
+
+	dist[src] = 0;
+
+	for (int count = 0; count < len - 1; count++) {
+		int u = minDistance(dist, sptSet);
+		sptSet[u] = true;
+		for (int v = 0; v < len; v++)
+			if (!sptSet[v] && graph[u][v] && dist[u] != INT_MAX
+				&& dist[u] + graph[u][v] < dist[v])
+				dist[v] = dist[u] + graph[u][v];
+	}
+	//printSolution(dist);
+
+	return dist;
+}
+
+
+
+
+
 
 template<typename DATA>
 class Graph
 {
 public:
 #define Points list<Point<DATA>> //Обратить Внимание!!!!
-	Graph() :points(Points()) {}
+	Graph() :points(Points()) { }
 
-	Graph(list<Point<DATA>> nP) :points(nP) {}
+	Graph(list<Point<DATA>> nP) :points(nP) { }
 
 	/*
 	* function for printing graph to console
@@ -92,7 +153,7 @@ public:
 				it_point++;
 			}
 			//cout << "Message from Graph: POINT ID = " << id << " WAS SUCCESSFUL DELETED\n";
-			Log::send_message(sender, "Point id = " + to_string(id) + " was deleted", 0,-1);
+			Log::send_message(sender, "Point id = " + to_string(id) + " was deleted", 0, -1);
 		}
 		return 1;
 	}
@@ -143,7 +204,7 @@ public:
 			return -1;
 		}
 		//cout << "\nMessage from Graph: Creation random graph began\n q_points = " << q_points << " min_weight = " << min_weight << " max_weight = " << max_weight << "\n";
-		Log::send_message(sender, " Creation random graph began\n q_points = " + to_string(q_points) + " min_weight = " + to_string(min_weight) + " max_weight = " + to_string(max_weight),0,-1);
+		Log::send_message(sender, " Creation random graph began\n q_points = " + to_string(q_points) + " min_weight = " + to_string(min_weight) + " max_weight = " + to_string(max_weight), 0, -1);
 		typename list<DATA> ::iterator it_data = data.begin();
 		Point<DATA> point;
 		for (size_t i = 0; i < q_points; i++)
@@ -203,7 +264,14 @@ public:
 		return points.end();
 	}
 
+	int* djikstra_alg(int src) {
+		int** arr = generate_arr_for_dji();
+		return dijkstra(arr, src, points.size());
+	}
+
 private:
+	
+
 	typename Points::iterator  is_point_exist(int id) {
 		typename Points::iterator it_point = points.begin();
 		while (it_point != points.end())
@@ -215,6 +283,50 @@ private:
 			it_point++;
 		}
 		return points.end();
+	}
+	
+	int** generate_arr_for_dji() {
+		int n = points.size();
+		int** arr = new int* [n];
+		for (size_t i = 0; i < n; i++)
+		{
+			arr[i] = new int[n];
+			for (size_t j = 0; j < n; j++)
+			{
+				arr[i][j] = 0;
+			}
+		}
+
+		typename Points::iterator point_it = get_points_begin();
+		Point<DATA> point;
+		Connection conn;
+		if (point_it != get_points_end()) {
+			Log::send_message(sender, "STARTING CREATING WEIGHT MATRIX", 0);
+			while (point_it != get_points_end()) {
+				point = *point_it;
+				auto conn_it = point.connections.begin();
+
+				while (conn_it != point.connections.end())
+				{
+					conn = *conn_it;
+
+					arr[point.id][conn.id] = conn.weight;
+					conn_it++;
+				}
+				point_it++;
+			}
+		}
+
+		for (size_t i = 0; i < len; i++)
+		{
+			cout << endl;
+			for (size_t j = 0; j < len; j++)
+			{
+				cout << arr[i][j] << "\t";
+			}
+		}
+
+		return arr;
 	}
 
 	Sender sender = graph;
