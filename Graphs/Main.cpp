@@ -91,6 +91,7 @@ int main()
 
 
 	int* d = graph.djikstra_alg(0);*/
+	return 0;
 
 }
 

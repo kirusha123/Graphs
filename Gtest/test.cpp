@@ -3,10 +3,6 @@
 
 TEST(Graph, Testdijkstra) {
 	Graph<int> graph;
-	//list<int> data = { 5,4,4,2,1,3 };
-	//graph.create_random_graph(6, 0, 10, data);
-	//graph.print_console();
-	//graph.foutput("test_rand.txt");
 
 	int g[6][6] = {
 		{0, 10, 20, 0, 0, 0},
@@ -24,13 +20,11 @@ TEST(Graph, Testdijkstra) {
 
 	for (int i = 0; i < 6; i++)
 	{
-		//cout << "\n";
 		for (int j = 0; j < 6; j++)
 		{
 			pts[i].id = i;
 			Connection conn = Connection(j, g[i][j]);
 			pts[i].add_connection(conn);
-			//cout << "N: " << j << "\tweigth: " << g[i][j]<<"\t";
 		}
 	}
 

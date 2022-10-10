@@ -394,3 +394,175 @@ Reason: point already exists
 1622118587:	Message Graph: It is not possible to delete a point with id = -1
 Reason: this point is missing or has been deleted earlier.
 
+1639574657:	Message Point 0: connection id = 0 was added successfully
+
+1639574657:	Message Point 0: connection id = 1 was added successfully
+
+1639574657:	Message Point 0: connection id = 2 was added successfully
+
+1639574657:	Message Point 0: connection id = 3 was added successfully
+
+1639574657:	Message Point 0: connection id = 4 was added successfully
+
+1639574657:	Message Point 0: connection id = 5 was added successfully
+
+1639574657:	Message Point 1: connection id = 0 was added successfully
+
+1639574657:	Message Point 1: connection id = 1 was added successfully
+
+1639574657:	Message Point 1: connection id = 2 was added successfully
+
+1639574657:	Message Point 1: connection id = 3 was added successfully
+
+1639574657:	Message Point 1: connection id = 4 was added successfully
+
+1639574657:	Message Point 1: connection id = 5 was added successfully
+
+1639574657:	Message Point 2: connection id = 0 was added successfully
+
+1639574657:	Message Point 2: connection id = 1 was added successfully
+
+1639574657:	Message Point 2: connection id = 2 was added successfully
+
+1639574657:	Message Point 2: connection id = 3 was added successfully
+
+1639574657:	Message Point 2: connection id = 4 was added successfully
+
+1639574657:	Message Point 2: connection id = 5 was added successfully
+
+1639574657:	Message Point 3: connection id = 0 was added successfully
+
+1639574657:	Message Point 3: connection id = 1 was added successfully
+
+1639574657:	Message Point 3: connection id = 2 was added successfully
+
+1639574657:	Message Point 3: connection id = 3 was added successfully
+
+1639574657:	Message Point 3: connection id = 4 was added successfully
+
+1639574657:	Message Point 3: connection id = 5 was added successfully
+
+1639574657:	Message Point 4: connection id = 0 was added successfully
+
+1639574657:	Message Point 4: connection id = 1 was added successfully
+
+1639574657:	Message Point 4: connection id = 2 was added successfully
+
+1639574657:	Message Point 4: connection id = 3 was added successfully
+
+1639574657:	Message Point 4: connection id = 4 was added successfully
+
+1639574657:	Message Point 4: connection id = 5 was added successfully
+
+1639574657:	Message Point 5: connection id = 0 was added successfully
+
+1639574657:	Message Point 5: connection id = 1 was added successfully
+
+1639574657:	Message Point 5: connection id = 2 was added successfully
+
+1639574657:	Message Point 5: connection id = 3 was added successfully
+
+1639574657:	Message Point 5: connection id = 4 was added successfully
+
+1639574657:	Message Point 5: connection id = 5 was added successfully
+
+1639574657:	Message Graph: STARTING CREATING WEIGHT MATRIX
+
+1639574657:	Message Graph: Point id = 1 was added
+
+1639574657:	Message Graph: Cannot add point id = 1
+Reason: point already exists
+
+1639574657:	Message Graph: Point id = 1 was added
+
+1639574657:	Message Graph: Point id = 1 was deleted
+
+1639574657:	Message Graph: It is not possible to delete a point with id = -1
+Reason: this point is missing or has been deleted earlier.
+
+1643824715:	Message Point 0: connection id = 0 was added successfully
+
+1643824715:	Message Point 0: connection id = 1 was added successfully
+
+1643824715:	Message Point 0: connection id = 2 was added successfully
+
+1643824715:	Message Point 0: connection id = 3 was added successfully
+
+1643824715:	Message Point 0: connection id = 4 was added successfully
+
+1643824715:	Message Point 0: connection id = 5 was added successfully
+
+1643824715:	Message Point 1: connection id = 0 was added successfully
+
+1643824715:	Message Point 1: connection id = 1 was added successfully
+
+1643824715:	Message Point 1: connection id = 2 was added successfully
+
+1643824715:	Message Point 1: connection id = 3 was added successfully
+
+1643824715:	Message Point 1: connection id = 4 was added successfully
+
+1643824715:	Message Point 1: connection id = 5 was added successfully
+
+1643824715:	Message Point 2: connection id = 0 was added successfully
+
+1643824715:	Message Point 2: connection id = 1 was added successfully
+
+1643824715:	Message Point 2: connection id = 2 was added successfully
+
+1643824715:	Message Point 2: connection id = 3 was added successfully
+
+1643824715:	Message Point 2: connection id = 4 was added successfully
+
+1643824715:	Message Point 2: connection id = 5 was added successfully
+
+1643824715:	Message Point 3: connection id = 0 was added successfully
+
+1643824715:	Message Point 3: connection id = 1 was added successfully
+
+1643824715:	Message Point 3: connection id = 2 was added successfully
+
+1643824715:	Message Point 3: connection id = 3 was added successfully
+
+1643824715:	Message Point 3: connection id = 4 was added successfully
+
+1643824715:	Message Point 3: connection id = 5 was added successfully
+
+1643824715:	Message Point 4: connection id = 0 was added successfully
+
+1643824715:	Message Point 4: connection id = 1 was added successfully
+
+1643824715:	Message Point 4: connection id = 2 was added successfully
+
+1643824715:	Message Point 4: connection id = 3 was added successfully
+
+1643824715:	Message Point 4: connection id = 4 was added successfully
+
+1643824715:	Message Point 4: connection id = 5 was added successfully
+
+1643824715:	Message Point 5: connection id = 0 was added successfully
+
+1643824715:	Message Point 5: connection id = 1 was added successfully
+
+1643824715:	Message Point 5: connection id = 2 was added successfully
+
+1643824715:	Message Point 5: connection id = 3 was added successfully
+
+1643824715:	Message Point 5: connection id = 4 was added successfully
+
+1643824715:	Message Point 5: connection id = 5 was added successfully
+
+1643824715:	Message Graph: STARTING CREATING WEIGHT MATRIX
+
+1643824715:	Message Graph: Point id = 1 was added
+
+1643824715:	Message Graph: Cannot add point id = 1
+Reason: point already exists
+
+1643824715:	Message Graph: Point id = 1 was added
+
+1643824715:	Message Graph: Point id = 1 was deleted
+
+1643824715:	Message Graph: It is not possible to delete a point with id = -1
+Reason: this point is missing or has been deleted earlier.
+
